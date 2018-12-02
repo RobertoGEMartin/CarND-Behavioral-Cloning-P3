@@ -127,6 +127,7 @@ apps/Tennis_Linux_NoVis
 *.npy
 *.pyc
 *.csv
+*.jpg
 
 ./bvlc-alexnet.npy
 ./train.p
@@ -136,6 +137,9 @@ apps/Tennis_Linux_NoVis
 ./train.p
 ./bvlc-alexnet.npy
 ./train.p
+
+data/IMG
+simulator-mac/
 
 .idea/*./.git/objects/7d/77cb5438c5491ccfae2e469c4e8913777fcf6b
 ./bvlc-alexnet.npy
