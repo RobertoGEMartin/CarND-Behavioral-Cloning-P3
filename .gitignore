@@ -91,7 +91,7 @@ env.bak/
 venv.bak/
 data/
 *.jpg
-simulator-mac/
+simulator-mac/*.*
 
 # Spyder project settings
 .spyderproject
